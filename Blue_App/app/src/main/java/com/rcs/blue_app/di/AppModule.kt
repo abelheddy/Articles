@@ -16,4 +16,6 @@ object AppModule {
     fun provideArticleRepository(): ArticleRepository {
         return ArticleRepository()
     }
+
+
 }
